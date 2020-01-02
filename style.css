@@ -1,0 +1,36 @@
+
+body {
+ background-image: url("head.jpg");
+ background-color: #cccccc;
+background-size: cover;
+}
+
+div
+{
+	margin-top: 300px;
+	margin-bottom: 200px;
+}
+p{
+	font-family: Georgia;
+	font-size: 20px;
+	color: white;
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+.btn-primary
+{
+	display: flex;
+	text-align: center;
+	height: 40px;
+	width: 150px;
+	color: white;
+	background-color: red;
+	border-radius: 20px;
+	margin-left: 625px;
+	margin-top: 225px;
+}
+.btn-primary:hover
+{
+
+}
